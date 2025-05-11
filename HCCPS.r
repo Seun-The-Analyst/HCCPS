@@ -1,7 +1,7 @@
 # Load necessary library
 set.seed(123)  # For reproducibility
 
-# List of sample first and last names
+# List of sample first and last names of workers of High Bridge Construction Company
 first_names <- c("John", "Jane", "Alex", "Emily", "Chris", "Katie", "Michael", "Sarah", "David", "Laura", "Peter", "Linda", "James", "Jessica", "Robert", "Mary", "William", "Patricia", "Daniel", "Elizabeth")
 last_names <- c("Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Martinez", "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin", "Lee")
 
